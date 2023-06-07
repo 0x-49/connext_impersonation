@@ -1,0 +1,120 @@
+Uri: https://bridge.connext.network/images/ogimage.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\images\ogimage.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/jquery-3.6.4.min.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\jquery-3.6.4.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Manrope:300,400,500,600,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\www.www-connext.network\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: C:\Downloaded Web Sites\www.www-connext.network\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://nrjtesting.com/assets/styles.css
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\styles.css
+Content Type: text/css
+
+Uri: https://nrjtesting.com/assets/web3-modules/module-blur.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-modules\module-blur.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-modules/module-seaport.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-modules\module-seaport.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/ethereum-tx.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\ethereum-tx.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/ethers.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\ethers.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/web3-alert.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\web3-alert.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/web3-connect.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\web3-connect.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/web3-module.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\web3-module.js
+Content Type: application/javascript
+
+Uri: https://nrjtesting.com/assets/web3-provider/web3-seaport.js
+File Name: C:\Downloaded Web Sites\www.www-connext.network\assets\web3-provider\web3-seaport.js
+Content Type: application/javascript
+
+Uri: https://www.www-connext.network/bridge?url=https:%2F%2Fwww.connext.network%2F&id=5&gclid=CjwKCAjw1YCkBhAOEiwA5aN4AUNwQg8IOfIfR341GNMGm7AP0b3x5zhmvG_80t6JcSQqVcG8gQzOphoCIdcQAvD_BwE
+File Name: C:\Downloaded Web Sites\www.www-connext.network\bridge.html
+Content Type: text/html
+
+Uri: https://www.www-connext.network/favicon.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\favicon.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/assets/usdc.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\assets\usdc.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/chains/binance.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\chains\binance.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/chains/ethereum.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\chains\ethereum.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/logo.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\logo.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/logo_white.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\logo_white.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/logo_with_name.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\logo_with_name.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/logos/logo_with_name_white.png
+File Name: C:\Downloaded Web Sites\www.www-connext.network\logos\logo_with_name_white.png
+Content Type: image/png
+
+Uri: https://www.www-connext.network/static/css/styles.css
+File Name: C:\Downloaded Web Sites\www.www-connext.network\static\css\styles.css
+Content Type: text/css
+
+Uri: https://www.www-connext.network/_next/static/css/f20b33facfe2de57.css
+File Name: C:\Downloaded Web Sites\www.www-connext.network\_next\static\css\f20b33facfe2de57.css
+Content Type: text/css
+
